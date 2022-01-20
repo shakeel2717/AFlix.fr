@@ -1,0 +1,19 @@
+#header {
+  z-index: 10000;
+}
+
+.with-space {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
+@media (min-width: 768px) {
+  .with-space {
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+}
+
+.my-md {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}
